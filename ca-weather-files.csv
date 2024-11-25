@@ -1,0 +1,59 @@
+county_id,county_name,weather_station,new_folder_name
+G0600010,"CA, Alameda County",Hayward Air Term,USA_CA_Hayward.Exec.AP.725850_TMYx.2007-2021
+G0600030,"CA, Alpine County",South Lake Tahoe,USA_CA_South.Lake.Tahoe-Lake.Tahoe.AP.725847_TMYx.2007-2021
+G0600050,"CA, Amador County",South Lake Tahoe,USA_CA_South.Lake.Tahoe-Lake.Tahoe.AP.725847_TMYx.2007-2021
+G0600070,"CA, Butte County",Yuba Co,USA_CA_Marysville-Yuba.County.AP.724838_TMYx.2007-2021
+G0600090,"CA, Calaveras County",South Lake Tahoe,USA_CA_South.Lake.Tahoe-Lake.Tahoe.AP.725847_TMYx.2007-2021
+G0600110,"CA, Colusa County",Yuba Co,USA_CA_Marysville-Yuba.County.AP.724838_TMYx.2007-2021
+G0600130,"CA, Contra Costa County",Concord Concord Buchanan Fiel,USA_CA_Concord-Buchanan.Field.AP.724950_TMYx.2007-2021
+G0600150,"CA, Del Norte County",Crescent City Faa Ai,USA_CA_Crescent.City-Del.Norte.County.Rgnl.AP.725946_TMYx.2007-2021
+G0600170,"CA, El Dorado County",South Lake Tahoe,USA_CA_South.Lake.Tahoe-Lake.Tahoe.AP.725847_TMYx.2007-2021
+G0600190,"CA, Fresno County",Fresno Yosemite Intl Ap,USA_CA_Fresno.Yosemite.Intl.AP.723890_TMYx.2007-2021
+G0600210,"CA, Glenn County",Red Bluff Municipal Arpt,USA_CA_Red.Bluff.Muni.AP.725910_TMYx.2007-2021
+G0600230,"CA, Humboldt County",Arcata Airport,USA_CA_Eureka-California.Redwood.Coast-Humboldt.County.AP.725945_TMYx.2007-2021
+G0600250,"CA, Imperial County",Imperial,USA_CA_Imperial.County.AP.747185_TMYx.2007-2021
+G0600270,"CA, Inyo County",Bishop Airport,USA_CA_Bishop-Eastern.Sierra.Rgnl.AP.724800_TMYx.2007-2021
+G0600290,"CA, Kern County",Bakersfield Meadows Field,USA_CA_Bakersfield-Meadows.Field.AP.723840_TMYx.2007-2021
+G0600310,"CA, Kings County",Lemoore Reeves Nas,USA_CA_NAS.Lemoore.747020_TMYx.2007-2021
+G0600330,"CA, Lake County",Santa Rosa  Awos,USA_CA_Santa.Rosa-Schulz-Sonoma.County.AP.724957_TMYx.2007-2021
+G0600350,"CA, Lassen County",Alturas,USA_CA_Alturas.Muni.AP.725958_TMYx.2007-2021
+G0600370,"CA, Los Angeles County",Jack Northrop Fld H,USA_CA_Hawthorne.Muni.AP-Northrop.Field.722956_TMYx.2007-2021
+G0600390,"CA, Madera County",Fresno Yosemite Intl Ap,USA_CA_Fresno.Yosemite.Intl.AP.723890_TMYx.2007-2021
+G0600410,"CA, Marin County",Napa Co  Airport,USA_CA_Napa.County.AP.724955_TMYx.2007-2021
+G0600430,"CA, Mariposa County",Merced Macready Fld,USA_CA_Merced.Rgnl.AP-Macready.Field.724815_TMYx.2007-2021
+G0600450,"CA, Mendocino County",Ukiah Municipal Ap,USA_CA_Eureka-California.Redwood.Coast-Humboldt.County.AP.725945_TMYx.2007-2021
+G0600470,"CA, Merced County",Merced Macready Fld,USA_CA_Merced.Rgnl.AP-Macready.Field.724815_TMYx.2007-2021
+G0600490,"CA, Modoc County",Alturas,USA_CA_Alturas.Muni.AP.725958_TMYx.2007-2021
+G0600510,"CA, Mono County",Bishop Airport,USA_CA_Bishop-Eastern.Sierra.Rgnl.AP.724800_TMYx.2007-2021
+G0600530,"CA, Monterey County",Salinas Muni AP,USA_CA_Salinas.Muni.AP.725930_TMYx.2007-2021
+G0600550,"CA, Napa County",Napa Co  Airport,USA_CA_Napa.County.AP.724955_TMYx.2007-2021
+G0600570,"CA, Nevada County",Truckee Tahoe,USA_CA_Truckee.Tahoe.AP.725846_TMYx.2007-2021
+G0600590,"CA, Orange County",Santa Ana John Wayne Ap,USA_CA_Santa.Ana-Orange.County-Wayne.Intl.AP.722977_TMYx.2007-2021
+G0600610,"CA, Placer County",Beale Afb,USA_CA_Beale.AFB.724837_TMYx.2007-2021
+G0600630,"CA, Plumas County",Truckee Tahoe,USA_CA_Truckee.Tahoe.AP.725846_TMYx.2007-2021
+G0600650,"CA, Riverside County",March Afb,USA_CA_Riverside-March.ARB.722860_TMYx.2007-2021
+G0600670,"CA, Sacramento County",Sacramento Executive Arpt,USA_CA_Sacramento.Exec.AP.724830_TMYx.2007-2021
+G0600690,"CA, San Benito County",Salinas Municipal Ap,USA_CA_Salinas.Muni.AP.725930_TMYx.2007-2021
+G0600710,"CA, San Bernardino County",Riverside Muni,USA_CA_Riverside.Muni.AP.722869_TMYx.2007-2021
+G0600730,"CA, San Diego County",San Diego Miramar Nas,USA_CA_San.Diego-MCAS.Miramar.722930_TMYx.2007-2021
+G0600750,"CA, San Francisco County",San Francisco Intl Ap,USA_CA_San.Francisco.Intl.AP.724940_TMYx.2007-2021
+G0600770,"CA, San Joaquin County",Stockton Metropolitan Arpt,USA_CA_Stockton.Metro.AP.724920_TMYx.2007-2021
+G0600790,"CA, San Luis Obispo County",San Luis Co Rgnl,USA_CA_San.Luis.Obispo.County.Rgnl.AP.722897_TMYx.2007-2021
+G0600810,"CA, San Mateo County",San Francisco Intl Ap,USA_CA_San.Francisco.Intl.AP.724940_TMYx.2007-2021
+G0600830,"CA, Santa Barbara County",Santa Barbara Municipal Ap,USA_CA_Santa.Barbara.Muni.AP.723925_TMYx.2007-2021
+G0600850,"CA, Santa Clara County",San Jose Intl Ap,USA_CA_San.Jose-Mineta.Intl.AP.724945_TMYx.2007-2021
+G0600870,"CA, Santa Cruz County",San Jose Intl Ap,USA_CA_San.Jose-Mineta.Intl.AP.724945_TMYx.2007-2021
+G0600890,"CA, Shasta County",Redding Municipal Arpt,USA_CA_Redding.Muni.AP.725920_TMYx.2007-2021
+G0600910,"CA, Sierra County",Truckee Tahoe,USA_CA_Truckee.Tahoe.AP.725846_TMYx.2007-2021
+G0600930,"CA, Siskiyou County",Montague Siskiyou County Ap,USA_CA_Montague-Siskiyou.County.AP.725955_TMYx.2007-2021
+G0600950,"CA, Solano County",Travis Field Afb,USA_CA_Fairfield-Travis.AFB.745160_TMYx.2007-2021
+G0600970,"CA, Sonoma County",Santa Rosa  Awos,USA_CA_Santa.Rosa-Schulz-Sonoma.County.AP.724957_TMYx.2007-2021
+G0600990,"CA, Stanislaus County",Modesto City County Ap,USA_CA_Modesto.City-County.AP.724926_TMYx.2007-2021
+G0601010,"CA, Sutter County",Yuba Co,USA_CA_Marysville-Yuba.County.AP.724838_TMYx.2007-2021
+G0601030,"CA, Tehama County",Red Bluff Municipal Arpt,USA_CA_Red.Bluff.Muni.AP.725910_TMYx.2007-2021
+G0601050,"CA, Trinity County",Redding Municipal Arpt,USA_CA_Redding.Muni.AP.725920_TMYx.2007-2021
+G0601070,"CA, Tulare County",Visalia Muni  Awos,USA_CA_Visalia.Muni.AP.723896_TMYx.2007-2021
+G0601090,"CA, Tuolumne County",South Lake Tahoe,USA_CA_South.Lake.Tahoe-Lake.Tahoe.AP.725847_TMYx.2007-2021
+G0601110,"CA, Ventura County",Camarillo  Awos,USA_CA_Camarillo.AP.723926_TMYx.2007-2021
+G0601130,"CA, Yolo County",Sacramento Metropolitan Ap,USA_CA_Sacramento.Intl.AP.724839_TMYx.2007-2021
+G0601150,"CA, Yuba County",Yuba Co,USA_CA_Marysville-Yuba.County.AP.724838_TMYx.2007-2021
